@@ -1,4 +1,4 @@
-# Automação de Cadastro no CADIN
+<img width="1818" height="903" alt="image" src="https://github.com/user-attachments/assets/5c51348c-1c2c-48ce-883c-081751d19c7d" /># Automação de Cadastro no CADIN
 
 Automação em duas etapas para o cadastramento em massa de responsáveis no
 [CADIN/PGFN](https://cadin.pgfn.gov.br), a partir da planilha de
@@ -158,10 +158,12 @@ Clique em **Executar**. O robô:
 > **Executar próxima ação** para conferir a primeira linha.
 
 ### Visão geral do fluxo
+<img width="1818" height="903" alt="Captura de tela 2026-10-13 110318" src="https://github.com/user-attachments/assets/a565dde0-b22e-450f-987b-742780e53993" />
 
-![Início do fluxo: leitura do Excel e login no gov.br](docs/img/fluxo-parte1.png)
+<img width="1812" height="899" alt="Captura de tela 2026-10-13 110446" src="https://github.com/user-attachments/assets/2a1187e8-1cd7-4bcf-a666-0bec610a8600" />
 
-![Login com credencial do Windows e acesso ao cadastro](docs/img/fluxo-parte2.png)
+
+
 
 ---
 
