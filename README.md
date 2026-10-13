@@ -22,7 +22,6 @@ automacao-cadin/
 │   └── requirements.txt
 ├── power-automate/
 │   └── fluxo_cadastro_cadin.txt    # Etapa 2: fluxo exportado do Power Automate Desktop
-├── docs/img/                       # Prints do fluxo usados neste README
 ├── .gitignore
 └── README.md
 ```
