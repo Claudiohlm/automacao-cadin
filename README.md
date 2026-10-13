@@ -1,4 +1,4 @@
-<img width="1818" height="903" alt="image" src="https://github.com/user-attachments/assets/5c51348c-1c2c-48ce-883c-081751d19c7d" /># Automação de Cadastro no CADIN
+# Automação de Cadastro no CADIN
 
 Automação em duas etapas para o cadastramento em massa de responsáveis no
 [CADIN/PGFN](https://cadin.pgfn.gov.br), a partir da planilha de
